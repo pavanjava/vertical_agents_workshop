@@ -1,0 +1,3 @@
+question1: Hi This is Pavan Mantha. I a Distinguished AI Architect at Equal. Today i am speaking at HydPy meetup.  After this meetup i am planning to go for a luch so can you sugest me some good restaurants in and around Gachibowli area?
+question2: Hey, i have decided to stayback after the meetup and i have got some plans in the evening in Gachibowli, can you predict my next question?
+question3: Perfect, can you suggest me some?

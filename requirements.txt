@@ -1,0 +1,38 @@
+# agent orchestration framework
+agno
+
+# LLM models
+ollama
+openai
+google-genai
+anthropic
+litellm
+
+# misc
+pypdf
+rich
+python-dotenv
+
+# tools
+duckduckgo-search
+googlesearch-python
+pycountry
+
+# db
+qdrant-client
+pymongo
+
+# memory
+mem0ai[graph]
+
+# graph deps(viz and processing)
+langchain-memgraph
+networkx
+matplotlib
+
+# ui
+streamlit
+
+# data processing
+pandas
+numpy

@@ -1,0 +1,95 @@
+Case 2: Diabetic Ketoacidosis (DKA)
+
+Case Narrative:
+A 23-year-old female with type 1 diabetes mellitus presents with vomiting, abdominal pain, and deep rapid breathing. She reports missing her insulin doses for 2 days.
+
+History & Physical:
+Vitals: T36.8°C, HR110bpm, BP100/60mmHg, RR28bpm
+General: Alert but fatigued
+Hydration: Moderate dehydration, dry mucous membranes
+Neurologic: No focal deficits
+
+Key Laboratory Data:
+Blood glucose: 520mg/dL
+Serum bicarbonate: 10mEq/L
+Anion gap: 24
+Serum ketones: Positive
+ABG (pH): 7.18
+
+Assessment & Management Questions:
+1. What criteria confirm the diagnosis of DKA?
+2. List the priorities in her acute management including fluids and insulin.
+3. How will you monitor and adjust potassium during treatment?
+
+
+Case 3: Acute Appendicitis
+
+Case Narrative:
+A 34-year-old male presents with 12 hours of abdominal pain that started in the periumbilical region and migrated to the right lower quadrant. He has mild fever and nausea.
+
+History & Physical:
+Vitals: T37.9°C, HR95bpm, BP122/78mmHg, RR18bpm
+General: Uncomfortable, prefers to lie still
+Hydration: Normal
+Neurologic: Normal exam
+
+Key Laboratory Data:
+WBC count: 15,200 /mm³
+Neutrophils: 82%
+CRP: Elevated
+Serum bilirubin: 0.8 mg/dL
+Ultrasound: Appendix diameter 9 mm, non-compressible
+
+Assessment & Management Questions:
+1. What findings support a diagnosis of acute appendicitis?
+2. What is the next step in management?
+3. Would you consider antibiotics alone, or is surgery indicated?
+
+
+Case 4: Iron Deficiency Anemia
+
+Case Narrative:
+A 45-year-old female presents with fatigue and shortness of breath on exertion. Her diet is predominantly vegetarian and she reports heavy menstrual bleeding.
+
+History & Physical:
+Vitals: T36.5°C, HR88bpm, BP110/70mmHg, RR16bpm
+General: Pale, mild exertional dyspnea
+Hydration: Normal
+Neurologic: Normal exam
+
+Key Laboratory Data:
+Hemoglobin: 8.6g/dL
+MCV: 72fL
+Serum ferritin: 10ng/mL
+TIBC: 420µg/dL
+Serum iron: 30µg/dL
+
+Assessment & Management Questions:
+1. What laboratory findings support iron deficiency anemia?
+2. What further investigations would you consider?
+3. How will you approach treatment and follow-up?
+
+
+
+Case 5: Chronic Kidney Disease (CKD) with Hyperkalemia
+
+Case Narrative:
+A 60-year-old man with long-standing hypertension and type 2 diabetes presents for routine follow-up. He reports muscle weakness and recent missed nephrology appointments.
+
+History & Physical:
+Vitals: T36.9°C, HR80bpm, BP150/92mmHg, RR16bpm
+General: Stable, alert
+Hydration: Euvolemic
+Neurologic: Normal reflexes, mild weakness
+
+Key Laboratory Data:
+Creatinine: 3.8mg/dL
+eGFR: 18mL/min/1.73m²
+Serum potassium: 6.2mEq/L
+Serum bicarbonate: 19mEq/L
+Urinalysis: Proteinuria, no casts
+
+Assessment & Management Questions:
+1. What features are consistent with CKD and hyperkalemia?
+2. Outline the immediate steps to lower potassium.
+3. What are the long-term management strategies for this patient?
